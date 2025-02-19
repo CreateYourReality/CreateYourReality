@@ -1,10 +1,15 @@
   
 # 💻 🔥🔥🔥🔥🔥 Tech Stack:
- 
-🔥🔥🔥🔥🔥
 
-🔥🔥🔥🔥
-[![The Darkness - 2025](./theDarkness%20-%202025%20small.png)](https://www.instagram.com/kydzarna/)
+
+
+
+<div style="display: flex; align-items: center;">
+  <div>
+🔥🔥🔥🔥🔥</br>
+
+🔥🔥🔥🔥</br>
+
 🔥🔥🔥</br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,10 +43,27 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  </div>
+  
+  <div style="margin-right: 10px;">
+    <a href="https://www.instagram.com/kydzarna/" target="_blank">
+      <img src="./theDarkness%20-%202025%20small.png" alt="The Darkness - 2025">
+    </a>
+  </div>
+
+</div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CreateYourReality&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+<div>
+  
+
+
+ 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
