@@ -3,7 +3,7 @@
 
 
   <a  href="https://www.instagram.com/kydzarna/" target="_blank">
-    <img align="right" src="./unfinished.png" alt="The Darkness - 2025">
+    <img align="right" src="./theDarkness%20-%20unfinished2.png" alt="The Darkness - 2025">
   </a>
   <br>
 
