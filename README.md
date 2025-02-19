@@ -2,19 +2,12 @@
 # 💻 Tech Stack:
 
 
-<table align="right" style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://www.instagram.com/kydzarna/" target="_blank">
-        <img src="./theDarkness%20-%202025%20small.png" alt="The Darkness - 2025">
-      </a>
-      <br>
-      <a href="https://www.instagram.com/kydzarna/" target="_blank">
-        <span>Kyd-Zarna 2025</span>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a  href="https://www.instagram.com/kydzarna/" target="_blank">
+    <img align="right" src="./theDarkness%20-%202025%20small.png" alt="The Darkness - 2025">
+  </a>
+  <br>
+
+
 
 
 
