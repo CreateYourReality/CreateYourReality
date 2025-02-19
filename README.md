@@ -3,12 +3,12 @@
 
 
   <a  href="https://www.instagram.com/kydzarna/" target="_blank">
-    <img align="right" src="./theDarkness%20-%20unfinished2.png" alt="The Darkness - 2025">
+    <img align="right" src="./theDarkness%20Circle.png" alt="The Darkness - 2025">
   </a>
   <br>
 
 
-  </br>  </br>  </br>   </br>
+  </br>  </br>   
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
